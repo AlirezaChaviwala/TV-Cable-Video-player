@@ -1,0 +1,5 @@
+--Written in JS and bundled with Webpack
+--UI written in plain HTML with DOM manupulation
+
+--Hosted Netlify link
+https://tv-remote-video-player.netlify.app/
